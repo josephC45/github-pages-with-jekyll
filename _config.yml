@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima 
+title: Joseph Curto's Resume Site
+author: Joseph Curto
+email: joey.curto@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is to showcase some of the coding projects I have completed and some 
+  that I am currently working on in school or on my own.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  josephCurto
 
 show_excerpts: true # set to false to remove excerpts on the homepage
